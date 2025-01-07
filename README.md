@@ -4,10 +4,11 @@
 
 I am a passionate full-stack developer, dedicated to bringing your vision to life with creative and innovative solutions. I turn complex challenges into seamless digital experiences. My approach blends creativity with technical skill to craft solutions that not only meet but exceed your expectations.
 
-  
-<a align="left" href="https://linkedin.com/in/abdelkarim-alili-a65925206"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding-right: 10px;"></a>  
-<a align="left" href="https://www.instagram.com/abdelkarim_codes"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="padding-right: 10px;"></a> 
-<a align="left" href="https://www.youtube.com/@abdelkarim_codes?sub_confirmation=1"> <img src="https://img.shields.io/badge/youtube-d90429?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="padding-right: 10px;"></a>
+<div align="center">
+  <a href="https://linkedin.com/in/abdelkarim-alili-a65925206"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding-right: 10px;"></a>  
+  <a href="https://www.instagram.com/abdelkarim_codes"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="padding-right: 10px;"></a> 
+  <a href="https://www.youtube.com/@abdelkarim_codes?sub_confirmation=1"> <img src="https://img.shields.io/badge/youtube-d90429?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="padding-right: 10px;"></a>
+</div>
 
 
 ---
