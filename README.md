@@ -2,7 +2,9 @@
 
 **`Full Stack Developer & Content Creator`**
 
-I am a passionate full-stack developer, dedicated to bringing your vision to life with creative and innovative solutions. I turn complex challenges into seamless digital experiences. My approach blends creativity with technical skill to craft solutions that not only meet but exceed your expectations.
+I am a full-stack developer passionate about creating innovative solutions and sharing my knowledge through social media. I turn ideas into seamless digital experiences while helping others learn and grow in the tech field.
+
+Check out my portfolio: [My Portfolio](https://abdelkarim-codes.netlify.app)
 
 <div align="center">
   <a href="https://linkedin.com/in/abdelkarim-alili-a65925206"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding-right: 10px;"></a>  
