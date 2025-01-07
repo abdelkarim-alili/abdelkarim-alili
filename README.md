@@ -17,7 +17,7 @@ Check out my portfolio: [My Portfolio](https://abdelkarim-codes.netlify.app)
 
 ### 🛠️ Languages and Tools  
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="padding-right: 10px; padding-bottom: 10px;" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="padding-right: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" style="padding-right: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="padding-right: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" style="padding-right: 10px;" />
